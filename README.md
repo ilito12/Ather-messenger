@@ -1,19 +1,51 @@
-# 🟢 Ather Messenger
+<div align="center">
 
-> Secure, fast, and modern cross-platform messenger built with Flutter and Supabase.
+# 🟢 ATHER MESSENGER // SECURE CORE
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ilito12-Aether-messenger&color=00ff66&style=flat-square" alt="Views" />
-  <img src="https://img.shields.io/badge/Status-Active_Development-00FF66?style=flat-square&logo=git&logoColor=black" alt="Status" />
-  <img src="https://img.shields.io/badge/Beta-Countdown_Active-orange?style=flat-square&logo=clock" alt="Beta" />
-</p>
+> **Secure, fast, and modern cross-platform messenger built with Flutter and Supabase.**
 
-[![Flutter Version](https://img.shields.io/badge/Flutter-%3E%3D3.0-02569B?style=flat&logo=flutter)](https://flutter.dev)
-[![Supabase](https://img.shields.io/badge/Supabase-Backend-3ECF8E?style=flat&logo=supabase)](https://supabase.com)
-[![Encryption](https://img.shields.io/badge/Security-End_to_End-00FF66?style=flat&logo=letsencrypt)](https://github.com)
+[![Flutter](https://img.shields.io/badge/Flutter-%3E%3D3.0-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev)
+[![Supabase](https://img.shields.io/badge/Supabase-Backend-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)](https://supabase.com)
+[![Security](https://img.shields.io/badge/Security-End_to_End-00FF66?style=for-the-badge&logo=letsencrypt&logoColor=black)](https://github.com)
+[![Beta Status](https://img.shields.io/badge/Beta-September_11-orange?style=for-the-badge&logo=clock&logoColor=black)]()
+
+</div>
 
 ---
-## 📥 Скачать / Download
-Свежий APK-файл бета-версии можно скачать напрямую по ссылке ниже:
 
-👉 **[Скачать Ather Messenger Release (.apk)](https://github.com/ilito12/Aether-messenger/releases)**
+## ⚡ SYS//ABOUT
+
+**Ather Messenger** — защищенный кроссплатформенный мессенджер с упором на скорость, конфиденциальность и минималистичный интерфейс в стиле киберпанк. Проект разработан с использованием передовых технологий шифрования и облачной архитектуры.
+
+---
+
+## 📥 DOWNLOAD // СКАЧАТЬ БЕТУ
+
+> Готовый APK-файл мобильной версии доступен в официальном репозитории. Врывайся в систему:
+
+👉 **[📥 Скачать Ather Messenger APK (Releases)](https://github.com/ilito12/Aether-messenger/releases)**
+
+---
+
+## 🛠 TECH STACK // СТЕК ТЕХНОЛОГИЙ
+
+* **Frontend:** Flutter & Dart *(Cross-platform UI, Glassmorphism design)*
+* **Backend & Database:** Supabase *(Auth, Realtime database, Edge Functions)*
+* **Notifications:** Firebase Cloud Messaging (FCM)
+* **Security:** Custom encryption protocols & strict data protection
+
+---
+
+## 🚀 ROADMAP // СТАТУС РАЗРАБОТКИ
+
+* [x] Архитектура и дизайн интерфейса
+* [x] Настройка базы данных и авторизации
+* [x] Внедрение системы шифрования и безопасности
+* [ ] **Открытый бета-тест (Старт: 11 сентября 2026)**
+* [ ] Релиз стабильной версии 1.0
+
+---
+
+<div align="center">
+  <sub>Сделано с умом и душой :) // ATHER PROJECT © 2026</sub>
+</div>
